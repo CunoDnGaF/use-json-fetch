@@ -1,0 +1,23 @@
+#root {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.widget {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.data {
+  color: rgb(7, 170, 7);
+}
+
+.error {
+  color: rgb(129, 22, 14);
+}
+
+.loading {
+  color: rgb(243, 230, 52);
+}
